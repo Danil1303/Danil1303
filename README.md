@@ -16,6 +16,8 @@
 
 **Ссылки:**
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/reviewbomber)
+
 [![codewars](https://www.codewars.com/users/Danil1303/badges/large)](https://www.codewars.com/users/Danil1303) 
 
 
